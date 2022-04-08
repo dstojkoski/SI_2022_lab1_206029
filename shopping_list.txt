@@ -1,0 +1,5 @@
+milk
+tomatoes
+bread
+apples
+eggs
