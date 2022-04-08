@@ -1,5 +1,5 @@
 milk x 2
-tomatoes x 5
+tomatoes x 7
 bread x 1
 apples x 6
 eggs x 10
