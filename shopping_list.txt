@@ -1,5 +1,7 @@
 milk x 2
 tomatoes x 7
 bread x 1
-apples x 6
+apples x 3
 eggs x 8
+cucumbers x 5
+
